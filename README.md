@@ -1,0 +1,2 @@
+# es_demo_springboot
+此项目是springboot中集成es的demo 项目详情查看how2j.cn
